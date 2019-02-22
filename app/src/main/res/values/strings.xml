@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MobileProject</string>
+    <string name="SignIn_Button">Sign In</string>
+    <string name="SignUp_Button">Sign Up</string>
 </resources>
